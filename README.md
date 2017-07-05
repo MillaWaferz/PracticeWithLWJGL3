@@ -1,2 +1,2 @@
-# LWJGL
+# Practice With LWJGL3
 
